@@ -1,5 +1,5 @@
 /**
- * Filename: AddAddressModal.qml
+ * Filename: AddWallet.qml
  *
  * XCITE is a secure platform utilizing the XTRABYTES Proof of Signature
  * blockchain protocol to host decentralized applications
